@@ -1,4 +1,4 @@
-# Multilevel Modeling 
+# Logitudinal Data
 
 Scripts for analyzing nested and longitudinal data structures
 
